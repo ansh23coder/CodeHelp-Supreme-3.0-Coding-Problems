@@ -1,5 +1,4 @@
-// C++ program to generate well
-// ordered numbers with k digits.
+// C++ program to generate well ordered numbers with k digits.
 #include<bits/stdc++.h>
 using namespace std;
 
