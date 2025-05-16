@@ -14,7 +14,7 @@ void square(int n){
 
 int main(){
     int n;
-    cout << "take n:";
+    cout << "take n: ";
     cin >> n;
     square(n); // Call square with n, no need to assign to ans
     return 0;
