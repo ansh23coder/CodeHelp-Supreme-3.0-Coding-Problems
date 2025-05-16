@@ -7,7 +7,8 @@ void square(int n){
             // Print '*' for the border, space for inside
             if(i == 0 || i == n-1 || j == 0 || j == n-1){
                 cout << "* ";
-            } else {
+            } 
+            else {
                 cout << "  ";
             }
         }
@@ -19,7 +20,7 @@ int main(){
     int n;
     cout << "take n: ";
     cin >> n;
-    square(n); // Call square with n, no need to assign to ans
+    square(n); // Call square fn 
     return 0;
 }
 /*
