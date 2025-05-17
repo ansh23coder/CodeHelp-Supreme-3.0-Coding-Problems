@@ -1,11 +1,11 @@
 #include<iostream>
 using namespace std;
 
-void square(int n){
-    for(int i = 0; i < n; i++){
-        for(int j = 0; j < n; j++){
+void hollowRectangle(int rows, int cols){
+    for(int i = 0; i < rows; i++){
+        for(int j = 0; j < cols; j++){
             // Print '*' for the border, space for inside
-            if(i == 0 || i == n-1 || j == 0 || j == n-1){
+            if(i == 0 || i == rows-1 || j == 0 || j == cols-1){
                 cout << "* ";
             }   
             else {
@@ -17,18 +17,16 @@ void square(int n){
 }
 
 int main(){
-    int n;
-    cout << "take n: ";
-    cin >> n;
-    square(n); // Call square fn 
+    int rows, cols;
+    cout << "Enter rows and columns: ";
+    cin >> rows >> cols;
+    hollowRectangle(rows, cols); // Call hollowRectangle function
     return 0;
 }
 /*
-take n: 7
+Sample Input/Output:
+Enter rows and columns: 4 7
 * * * * * * * 
-*           * 
-*           * 
-*           * 
 *           * 
 *           * 
 * * * * * * *
