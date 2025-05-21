@@ -1,4 +1,6 @@
 #include<iostream>
+// #include <bits/std++.h> 
+// This is not needed in C++11 and later
 using namespace std;
 
 void hollowRectangle(int rows, int cols){

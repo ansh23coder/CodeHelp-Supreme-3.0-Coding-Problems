@@ -19,7 +19,6 @@ int main(){
     return 0;
 }
 /*
-
 take n: 8
 * * * * * * * 
 * * * * * *

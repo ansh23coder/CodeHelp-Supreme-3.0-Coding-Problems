@@ -2,8 +2,15 @@
 using namespace std;
 
 void pyramid(int n){
+    
+// Print spaces in pyramid pattern
+// take n: 4
+//    * 
+//   * *
+//  *   *
+// * * * *
+    // Print spaces
     for(int i = 1; i <= n; i++){
-        // Print spaces
         for(int j = 1; j <= n - i; j++){
             cout << " ";
         }
