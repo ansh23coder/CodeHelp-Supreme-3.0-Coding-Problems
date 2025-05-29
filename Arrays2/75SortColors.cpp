@@ -1,5 +1,7 @@
 // https://leetcode.com/problems/sort-colors/
 
+
+/*
 class Solution {
 public:
     // 1st method(100%)-
@@ -74,3 +76,5 @@ public:
     //     }
     // }
 };
+
+*/
