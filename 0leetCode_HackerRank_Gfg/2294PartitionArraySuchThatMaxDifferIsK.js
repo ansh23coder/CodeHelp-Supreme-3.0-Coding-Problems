@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/
 
+
 /*
 class Solution {
 public:
@@ -16,5 +17,4 @@ public:
         return ans;
     }
 };
-
 */
