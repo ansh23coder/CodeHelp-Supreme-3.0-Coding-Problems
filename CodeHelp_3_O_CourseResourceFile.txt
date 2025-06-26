@@ -7,5 +7,5 @@ https://www.codehelp.in/dashboard/core-subjects - Core Subject Preparation for P
 
 * Resource Link * 
 
-All codes and notes/github codes - https://cpp-dsa-sheet.vercel.app/ 
+All notes/codes - https://cpp-dsa-sheet.vercel.app/ 
 All credited goes to - https://github.com/saumyayadav25 for preparing this above sheet.
