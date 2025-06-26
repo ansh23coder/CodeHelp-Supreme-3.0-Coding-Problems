@@ -1,4 +1,4 @@
-# 🚀 CodeHelp Supreme 3.O
+# 🚀 CodeHelp Supreme 3.O DSA in C++ Course
 
 This repository contains all the coding problems I solved during the **C++ Course - CodeHelp Supreme 3.O**.
 
